@@ -75,8 +75,6 @@ rainfall-prediction-melbourne/
 ├── rainfall_prediction_melbourne.ipynb
 ├── README.md
 ├── requirements.txt
-└── data/
-└── weatherAUS.csv
 ```
 
 
